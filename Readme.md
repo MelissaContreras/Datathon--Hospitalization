@@ -14,7 +14,7 @@ ___
 
 </center/> 
 
-### El proyecto es acerca de predecir mediante un modelo de Machine Learning la duración de la estancia hospitalaria de los pacientes. L   a cuál realice mediante un modelo de clasificación.
+### El proyecto es acerca de predecir mediante un modelo de Machine Learning la duración de la estancia hospitalaria de los pacientes. La cuál realice mediante un modelo de clasificación.
 
 #### Comencé realizando un EDA. 
  - Observación de los datos en el primer CSV de Entrenamiento.
